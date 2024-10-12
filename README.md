@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Gupta</h1>
-<h3 align="center">I am a tech enthsiast.</h3>
+<h3 align="center">I am a tech enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyagupta8&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyagupta8" /> </p>
 
